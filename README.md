@@ -12,6 +12,6 @@ streamlit run dashboard.py
 ```
 ## Run ipynb 
 ```
+Analisas Data disini :
 Open Analisis Data.ipnyb
-Run ALL
 ```

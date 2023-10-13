@@ -12,6 +12,6 @@ streamlit run dashboard.py
 ```
 ## Run ipynb 
 ```
-Analisas Data disini :
+Open Visual Studio Code / juypter notebook
 Open Analisis Data.ipnyb
 ```

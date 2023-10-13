@@ -10,7 +10,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 cd dashboard
 'streamlit run Dasboard.py'
 ```
-## Run ipynb 
+## Run ipynb -> Visualization & Explanatory Analysis dan conclusion in this file
 ```
 Open Visual Studio Code / juypter notebook
 Open Analisis Data.ipnyb
